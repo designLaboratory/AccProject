@@ -1,0 +1,10 @@
+--cpu Cortex-M0+
+".\objects\i2c.o"
+".\objects\uart.o"
+".\objects\main.o"
+".\objects\mpu6050.o"
+".\objects\startup_mkl46z4.o"
+".\objects\system_mkl46z4.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x1FFFE000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Color changer.map" -o ".\Objects\Color changer.axf"

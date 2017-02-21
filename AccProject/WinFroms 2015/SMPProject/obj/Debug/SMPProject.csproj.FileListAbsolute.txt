@@ -1,0 +1,9 @@
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\bin\Debug\SMPProject.exe.config
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\bin\Debug\SMPProject.exe
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\bin\Debug\SMPProject.pdb
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.csprojResolveAssemblyReference.cache
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.Form1.resources
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.Properties.Resources.resources
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.csproj.GenerateResource.Cache
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.exe
+c:\users\ksoko\onedrive\dokumenty\visual studio 2015\Projects\SMPProject\SMPProject\obj\Debug\SMPProject.pdb

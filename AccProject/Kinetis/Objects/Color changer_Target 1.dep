@@ -1,0 +1,50 @@
+Dependencies for Project 'Color changer', Target 'Target 1': (DO NOT MODIFY !)
+F (.\I2C.c)(0x58A98341)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMKL46Z256xxx4-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5626197C)
+I (D:\Keil uVision\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h)(0x55FBCAE8)
+I (I2C.h)(0x58A888AC)
+F (.\UART.c)(0x58A98341)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMKL46Z256xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5626197C)
+I (D:\Keil uVision\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\ARMCC\include\string.h)(0x58A88967)
+I (UART.h)(0x58A98341)
+F (.\main.c)(0x58A98F1B)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMKL46Z256xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5626197C)
+I (D:\Keil uVision\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h)(0x55FBCAE8)
+I (I2C.h)(0x58A888AC)
+I (UART.h)(0x58A98341)
+I (MPU6050.h)(0x58A888AC)
+F (.\MPU6050.c)(0x58A888AC)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMKL46Z256xxx4-o .\objects\mpu6050.o --omf_browse .\objects\mpu6050.crf --depend .\objects\mpu6050.d)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5626197C)
+I (D:\Keil uVision\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h)(0x55FBCAE8)
+I (I2C.h)(0x58A888AC)
+I (MPU6050.h)(0x58A888AC)
+F (RTE\Device\MKL46Z256xxx4\startup_MKL46Z4.s)(0x55FBCAE8)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "MKL46Z256xxx4 SETA 1"--list .\listings\startup_mkl46z4.lst --xref -o .\objects\startup_mkl46z4.o --depend .\objects\startup_mkl46z4.d)
+F (RTE\Device\MKL46Z256xxx4\system_MKL46Z4.c)(0x58A8899F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I"C:\Users\ksoko\OneDrive\Dokumenty\Final SMP Project\RTE"-I"D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DMKL46Z256xxx4-o .\objects\system_mkl46z4.o --omf_browse .\objects\system_mkl46z4.crf --depend .\objects\system_mkl46z4.d)
+I (D:\Keil uVision\ARM\ARMCC\include\stdint.h)(0x574EA096)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h)(0x55FBCAE8)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5626197C)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil uVision\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h)(0x55FBCAE8)
